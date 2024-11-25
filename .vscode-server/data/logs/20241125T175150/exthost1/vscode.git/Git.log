@@ -1,0 +1,71 @@
+2024-11-25 17:51:56.441 [info] [main] Log level: Info
+2024-11-25 17:51:56.441 [info] [main] Validating found git in: "git"
+2024-11-25 17:51:56.441 [info] [main] Using git "2.34.1" from "git"
+2024-11-25 17:51:56.441 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-25 17:51:56.441 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-25 17:51:56.441 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 17:51:56.441 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-25 17:51:56.441 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 17:51:56.451 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 17:51:56.451 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 17:51:56.461 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-25 17:51:56.461 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 17:51:56.473 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-25 17:51:56.473 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 17:51:56.482 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 17:51:56.483 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 17:51:56.493 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-25 17:54:40.459 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-25 17:54:40.460 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 17:55:20.396 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 17:55:20.396 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:01:27.189 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-25 18:01:27.190 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:02:18.687 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-25 18:02:18.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:02:19.371 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-25 18:02:19.371 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:02:24.737 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 18:02:24.737 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:06:20.749 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-25 18:06:20.749 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:06:24.986 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-25 18:06:24.986 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:11:28.561 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-25 18:11:28.561 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:11:31.072 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-25 18:11:31.073 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:12:09.760 [info] > git rev-parse --show-toplevel [26ms]
+2024-11-25 18:12:09.761 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:27:43.511 [info] > git rev-parse --show-toplevel [28ms]
+2024-11-25 18:27:43.512 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:33:47.770 [info] > git rev-parse --show-toplevel [29ms]
+2024-11-25 18:33:47.771 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:41:56.993 [info] > git rev-parse --show-toplevel [28ms]
+2024-11-25 18:41:56.995 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 18:50:46.011 [info] > git rev-parse --show-toplevel [19ms]
+2024-11-25 18:50:46.013 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 19:05:17.625 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-25 19:05:17.626 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-25 19:07:26.879 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 19:07:26.886 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-11-25 19:07:26.902 [info] [Model][openRepository] Opened repository: /home/solovea
+2024-11-25 19:07:26.917 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-25 19:07:26.919 [info] > git config --get commit.template [7ms]
+2024-11-25 19:07:26.920 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-11-25 19:07:26.921 [warning] [Git][getBranch] No such branch: master
+2024-11-25 19:07:26.935 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-25 19:07:27.181 [info] > git status -z -uall [254ms]
+2024-11-25 19:07:27.232 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2024-11-25 19:07:27.233 [warning] [Git][getBranch] No such branch: master
+2024-11-25 19:07:27.234 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-11-25 19:07:27.239 [info] > git config --get commit.template [9ms]
+2024-11-25 19:07:27.244 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-25 19:07:27.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-11-25 19:07:27.247 [warning] [Git][getBranch] No such branch: master
+2024-11-25 19:07:27.266 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2024-11-25 19:07:27.290 [info] > git status -z -uall [38ms]
+2024-11-25 19:07:27.290 [info] > git show --textconv :sensor_simulation.asm [12ms]
+2024-11-25 19:07:27.317 [info] > git ls-files --stage -- /home/solovea/sensor_simulation.asm [32ms]
+2024-11-25 19:07:27.710 [info] > git check-ignore -v -z --stdin [16ms]
+2024-11-25 19:09:31.972 [info] > git check-ignore -v -z --stdin [2ms]

@@ -1,0 +1,15 @@
+2024-11-25 17:51:50.537 [info] 
+
+
+
+
+2024-11-25 17:51:50.589 [info] Extension host agent started.
+2024-11-25 17:51:50.902 [info] [127.0.0.1][36bae0b6][ManagementConnection] New connection established.
+2024-11-25 17:51:51.173 [info] [127.0.0.1][fc527639][ExtensionHostConnection] New connection established.
+2024-11-25 17:51:51.421 [info] [127.0.0.1][fc527639][ExtensionHostConnection] <558> Launched Extension Host Process.
+2024-11-25 17:53:46.515 [info] Getting Manifest... mccarter.start-git-bash
+2024-11-25 17:53:49.838 [info] Installing extension: mccarter.start-git-bash {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/solovea/.vscode-server/extensions/extensions.json","external":"file:///home/solovea/.vscode-server/extensions/extensions.json","path":"/home/solovea/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-25 17:53:58.907 [info] Extension signature verification result for mccarter.start-git-bash: Success. Executed: true. Duration: 7070ms.
+2024-11-25 17:53:58.984 [info] Extracted extension to file:///home/solovea/.vscode-server/extensions/mccarter.start-git-bash-1.2.1: mccarter.start-git-bash
+2024-11-25 17:53:59.008 [info] Renamed to /home/solovea/.vscode-server/extensions/mccarter.start-git-bash-1.2.1
+2024-11-25 17:53:59.049 [info] Extension installed successfully: mccarter.start-git-bash file:///home/solovea/.vscode-server/extensions/extensions.json
