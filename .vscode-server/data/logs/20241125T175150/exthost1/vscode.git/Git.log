@@ -69,3 +69,28 @@
 2024-11-25 19:07:27.317 [info] > git ls-files --stage -- /home/solovea/sensor_simulation.asm [32ms]
 2024-11-25 19:07:27.710 [info] > git check-ignore -v -z --stdin [16ms]
 2024-11-25 19:09:31.972 [info] > git check-ignore -v -z --stdin [2ms]
+2024-11-25 19:11:15.822 [info] > git config --get commit.template [7ms]
+2024-11-25 19:11:15.823 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-11-25 19:11:15.839 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-25 19:11:15.848 [info] > git status -z -uall [18ms]
+2024-11-25 19:11:15.878 [info] > git ls-files --stage -- /home/solovea/sensor_simulation.asm [3ms]
+2024-11-25 19:11:15.886 [info] > git cat-file -s 7d02375882c578813b4f2ba37918d79dd17bb197 [3ms]
+2024-11-25 19:11:15.944 [info] > git show --textconv :sensor_simulation.asm [3ms]
+2024-11-25 19:11:16.924 [info] > git fetch [1119ms]
+2024-11-25 19:11:16.924 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/Solovea_101/ICS3203-CAT2-Assembly-Mutei-Stephen-Solovea-150889/'
+2024-11-25 19:11:16.939 [info] > git config --get commit.template [8ms]
+2024-11-25 19:11:16.940 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-11-25 19:11:16.952 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-25 19:11:16.962 [info] > git status -z -uall [17ms]
+2024-11-25 19:11:17.052 [info] > git ls-files --stage -- /home/solovea/sensor_simulation.asm [3ms]
+2024-11-25 19:11:17.058 [info] > git cat-file -s 7d02375882c578813b4f2ba37918d79dd17bb197 [2ms]
+2024-11-25 19:11:17.072 [info] > git show --textconv :sensor_simulation.asm [3ms]
+2024-11-25 19:11:20.883 [info] > git config --get commit.template [6ms]
+2024-11-25 19:11:20.884 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-11-25 19:11:20.897 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-11-25 19:11:20.910 [info] > git status -z -uall [21ms]

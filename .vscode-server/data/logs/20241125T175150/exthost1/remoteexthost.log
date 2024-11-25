@@ -22,3 +22,4 @@
 2024-11-25 18:07:50.930 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
 2024-11-25 19:07:27.207 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1434
 2024-11-25 19:07:27.308 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1434
+2024-11-25 19:11:15.860 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1434
