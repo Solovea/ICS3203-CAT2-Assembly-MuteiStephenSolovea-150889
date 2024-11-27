@@ -13,3 +13,11 @@
 2024-11-25 17:53:58.984 [info] Extracted extension to file:///home/solovea/.vscode-server/extensions/mccarter.start-git-bash-1.2.1: mccarter.start-git-bash
 2024-11-25 17:53:59.008 [info] Renamed to /home/solovea/.vscode-server/extensions/mccarter.start-git-bash-1.2.1
 2024-11-25 17:53:59.049 [info] Extension installed successfully: mccarter.start-git-bash file:///home/solovea/.vscode-server/extensions/extensions.json
+2024-11-25 20:45:59.140 [info] [127.0.0.1][36bae0b6][ManagementConnection] The client has reconnected.
+2024-11-25 20:45:59.770 [info] [127.0.0.1][fc527639][ExtensionHostConnection] The client has reconnected.
+2024-11-25 21:27:30.991 [info] [127.0.0.1][fc527639][ExtensionHostConnection] The client has reconnected.
+2024-11-25 21:27:31.550 [info] [127.0.0.1][36bae0b6][ManagementConnection] The client has reconnected.
+2024-11-25 21:56:19.703 [info] [127.0.0.1][36bae0b6][ManagementConnection] The client has reconnected.
+2024-11-25 21:56:20.095 [info] [127.0.0.1][fc527639][ExtensionHostConnection] The client has reconnected.
+2024-11-26 00:18:55.871 [info] [127.0.0.1][36bae0b6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-26 00:18:56.236 [info] [127.0.0.1][fc527639][ExtensionHostConnection] <558> Extension Host Process exited with code: 0, signal: null.

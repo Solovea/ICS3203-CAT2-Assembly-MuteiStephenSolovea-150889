@@ -1,0 +1,11 @@
+2024-11-26 15:17:04.871 [info] 
+
+
+
+
+2024-11-26 15:17:04.953 [info] Extension host agent started.
+2024-11-26 15:17:05.347 [info] [127.0.0.1][4a041677][ManagementConnection] New connection established.
+2024-11-26 15:17:06.016 [info] [127.0.0.1][ad5d613b][ExtensionHostConnection] New connection established.
+2024-11-26 15:17:06.202 [info] [127.0.0.1][ad5d613b][ExtensionHostConnection] <480> Launched Extension Host Process.
+2024-11-26 15:17:07.668 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2024-11-26 15:17:10.847 [error] [network] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
